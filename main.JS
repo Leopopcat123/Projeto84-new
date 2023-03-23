@@ -1,4 +1,4 @@
-
+// Crie uma referência para o canvas em main.js.
 canvas = document.getElementById('myCanvas');
 ctx = canvas.getContext("2d");
 
@@ -85,3 +85,4 @@ function otherkey()
 	img_image="outras.png";
 	add();
 }
+	
